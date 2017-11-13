@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Filtrar eventos</title>
+</head>
+<body>
+<h2 class="encabezado">Filtra el tipo de actividad que buscas<h2>
+<blockquote>
+	<label>Filtrado por temas</label><br>
+	<input type="checkbox" name="eventodepor" checked tabindex="2" class="filtrotipo"> Eventos deportivos<br>
+	<input type="checkbox" name="comida" checked tabindex="3" class="filtrotipo">Gastronomías<br>
+	<input type="checkbox" name="festival" checked tabindex="4" class="filtrotipo"> Festivales<br>
+	<input type="checkbox" name="concierto" checked tabindex="5" class="filtrotipo"> Concierto<br>
+	<input type="checkbox" name="teatro" checked tabindex="6" class="filtrotipo"> Teatro<br>	
+  <input type="checkbox" name="exposiciones" checked tabindex="7" class="filtrotipo"> Exposiciones<br>
+  <input type="checkbox" name="baile" checked tabindex="8" class="filtrotipo"> Baile<br>
+  <input type="checkbox" name="clases" checked tabindex="9" class="filtrotipo"> Clases<br>
+  <input type="checkbox" name="airelibre" checked tabindex="10" class="filtrotipo"> Actividades al Aire Libre<br>
+  <input type="checkbox" name="cine" checked tabindex="11" class="filtrotipo"> Cine<br>
+  <input type="checkbox" name="visita" checked tabindex="4" class="filtrotipo"> Visitas guiadas<br>
+	</blockquote>
+  </body>
